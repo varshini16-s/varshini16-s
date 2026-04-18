@@ -9,10 +9,9 @@
 *M.Sc. Integrated Computational Statistics & Data Analytics @ VIT Vellore*  
 *The rare kind who speaks both Python and prose fluently.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshini-s-5120b1275)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshini0316@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=notion&logoColor=white)](https://drive.google.com/drive/folders/1sit4g1rgb0b1e2Q2DpcMooC9szRNFRFN?usp=sharing)
 
 </div>
 
