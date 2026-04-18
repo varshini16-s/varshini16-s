@@ -74,7 +74,7 @@ Analyzed 7,000+ telecom customers to identify churn drivers and build a predicti
 
 **Findings:** Month-to-month contracts + first 6 months tenure = highest risk window. Electronic check users churn at 2× the rate of auto-pay customers.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/customer-churn-prediction)
+[![Repo](https://img.shields.io/badge/View%20Repo-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshini16-s/customer-churn-prediction)
 
 `Python` `Scikit-learn` `Seaborn` `EDA`
 
